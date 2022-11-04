@@ -1,0 +1,6 @@
+﻿  LibraryClient.cpp
+LibraryClient.obj : error LNK2019: nierozpoznany symbol zewnętrzny __imp_fibonacci_init przywołany w funkcji main
+LibraryClient.obj : error LNK2019: nierozpoznany symbol zewnętrzny __imp_fibonacci_next przywołany w funkcji main
+LibraryClient.obj : error LNK2019: nierozpoznany symbol zewnętrzny __imp_fibonacci_current przywołany w funkcji main
+LibraryClient.obj : error LNK2019: nierozpoznany symbol zewnętrzny __imp_fibonacci_index przywołany w funkcji main
+C:\Users\Majkel\Documents\GitHub\Algorithms-project\LibraryClient\x64\Debug\LibraryClient.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 4

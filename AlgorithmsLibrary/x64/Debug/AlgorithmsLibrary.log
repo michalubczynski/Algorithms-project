@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  AlgorithmsLibrary.cpp
+C:\Users\Majkel\Documents\GitHub\Algorithms-project\AlgorithmsLibrary\AlgorithmsLibrary.cpp(15,6): warning C4273: "fibonacci_init": niespójne powiązanie biblioteki dll
+C:\Users\Majkel\Documents\GitHub\Algorithms-project\AlgorithmsLibrary\AlgorithmsLibrary.h(21,33): message : zobacz poprzednią definicję „fibonacci_init”
+C:\Users\Majkel\Documents\GitHub\Algorithms-project\AlgorithmsLibrary\AlgorithmsLibrary.cpp(26,6): warning C4273: "fibonacci_next": niespójne powiązanie biblioteki dll
+C:\Users\Majkel\Documents\GitHub\Algorithms-project\AlgorithmsLibrary\AlgorithmsLibrary.h(27,33): message : zobacz poprzednią definicję „fibonacci_next”
+C:\Users\Majkel\Documents\GitHub\Algorithms-project\AlgorithmsLibrary\AlgorithmsLibrary.cpp(47,20): warning C4273: "fibonacci_current": niespójne powiązanie biblioteki dll
+C:\Users\Majkel\Documents\GitHub\Algorithms-project\AlgorithmsLibrary\AlgorithmsLibrary.h(30,47): message : zobacz poprzednią definicję „fibonacci_current”
+C:\Users\Majkel\Documents\GitHub\Algorithms-project\AlgorithmsLibrary\AlgorithmsLibrary.cpp(53,10): warning C4273: "fibonacci_index": niespójne powiązanie biblioteki dll
+C:\Users\Majkel\Documents\GitHub\Algorithms-project\AlgorithmsLibrary\AlgorithmsLibrary.h(33,37): message : zobacz poprzednią definicję „fibonacci_index”
+  dllmain.cpp
+  Generowanie kodu...
+     Trwa tworzenie biblioteki C:\Users\Majkel\Documents\GitHub\Algorithms-project\AlgorithmsLibrary\x64\Debug\AlgorithmsLibrary.lib i obiektu C:\Users\Majkel\Documents\GitHub\Algorithms-project\AlgorithmsLibrary\x64\Debug\AlgorithmsLibrary.exp
+  AlgorithmsLibrary.vcxproj -> C:\Users\Majkel\Documents\GitHub\Algorithms-project\AlgorithmsLibrary\x64\Debug\AlgorithmsLibrary.dll
